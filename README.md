@@ -2,7 +2,7 @@
 1-) PROJE HAZIRLAYAN <br/>
   Bu projenin şimdiye kadar olan bölümünü kendim hazırladım. <br/>
 2-) PROJE PROBLEMİ <br/>
-  Covid-19 vaka sayılarını tahminlemede yapay sinir ağları-relu,sigmoid-, derin öğrenme-lstm- ve zaman serisi-forecast- modellerinin performansını hata ölçüm metrikleriyle-MSE,RMSE,MAPE,Forecast Bias, Belirlilik Katsayısı- ölçmüyle hangi modelin daha iyi olduğunu belirleme.<br/>
+  Covid-19 vaka sayılarını tahminlemede yapay sinir ağları-LSTM-, derin öğrenme-ReLU- ve zaman serisi-forecast- modellerinin performansını hata ölçüm metrikleriyle-MSE,RMSE,MAPE,Forecast Bias, Belirlilik Katsayısı- ölçmüyle hangi modelin daha iyi olduğunu belirleme.<br/>
 3-) PROJE KAPSAMI <br/>
   Bu projede kullanılan covid-19 verileri 2020 yılını kapsamaktadır. <br/>
 4-) PROJE AMACI <br/>
